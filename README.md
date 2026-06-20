@@ -16,7 +16,7 @@ I am actively adding more projects and improving the ones already uploaded. This
 
 Stay tuned for more updates as I continue to expand my portfolio!
 
-You can check out my personal website here: [http://131.226.61.226:80](http://131.226.61.226:80)
+You can check out my personal website here: [thomaslittleton.dev](thomaslittleton.dev) if Cloudflare DNS is down, you can still reach the site using this direct IP address [http://131.226.61.226:80](http://131.226.61.226:80)
 
 > ⚠️ Note: This is hosted on my home network, so the public IP may change occasionally.
 > I will try to keep this updated, but if the site doesn’t work, the IP may have changed.
