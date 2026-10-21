@@ -16,18 +16,14 @@ I am actively adding more projects and improving the ones already uploaded. This
 
 Stay tuned for more updates as I continue to expand my portfolio!
 
-You can check out my personal website here: [thomaslittleton.dev](https://thomaslittleton.dev) if Cloudflare DNS is down, you can still reach the site using this direct IP address [http://131.226.61.226:80](http://131.226.61.226:80)
-
-> ⚠️ Note: This is hosted on my home network, so the public IP may change occasionally.
-> I will try to keep this updated, but if the site doesn’t work, the IP may have changed.
-> I will also post here if it is down due to maintenance.
+You can check out my personal website here: [thomaslittleton.dev](https://thomaslittleton.dev)
 
 ## 🛠️ Tech Stack & Skills
 
-- **Languages:** C#, Java, JavaScript, Python, TypeScript
+- **Languages:** JavaScript, Python, TypeScript
 - **Frameworks / Libraries:** Node.js, React
 - **Servers & Virtualization:** Linux, Windows, Docker, VMs, TrueNAS
-- **Networking & Tools:** OPNSense, Nginx Proxy Manager, AdGuard Home, Git, GitHub, Home Assistant
+- **Networking & Tools:** Git, GitHub, Home Assistant
 - **Other:** Project management, documentation, homelab setups
 
 ## 🌱 Currently Learning
